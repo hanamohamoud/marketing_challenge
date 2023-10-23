@@ -31,7 +31,7 @@ The changes include:
 3. Provided 'alt' attributes for every image and icon used.
 4. Ensured the correct use of HTML semantics and their proper order, replacing some div elements with elements such as header, article, and aside. The semantic structure now adheres to the order: header, nav, main, article, aside, and footer.
    
-[visit here](Assets/Image 23-10-2023 at 7.51 pm.jpg)
+[Click Here](Assets/Images/Image 23-10-2023 at 7.51 pm.jpg)
 
 ## Credits
 
