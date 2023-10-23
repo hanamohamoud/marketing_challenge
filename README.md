@@ -30,7 +30,9 @@ The changes include:
 2. Replaced a div with a header element to ensure that all headings follow a sequential order.
 3. Provided 'alt' attributes for every image and icon used.
 4. Ensured the correct use of HTML semantics and their proper order, replacing some div elements with elements such as header, article, and aside. The semantic structure now adheres to the order: header, nav, main, article, aside, and footer.
-[visit here](Assets/images/Image 23-10-2023 at 7.51 pm.jpg)
+   
+[visit here](Assets/Image 23-10-2023 at 7.51 pm.jpg)
+
 ## Credits
 
 The challenge and the existing code for the Horiseon marketing agency website are educational resources provided by the edX Bootcamp for students.
